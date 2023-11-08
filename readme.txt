@@ -6,3 +6,5 @@ DISCORD: SquareJDBR
 
 
 You don´t need any python module for this!
+
+If u need any help, contact me
